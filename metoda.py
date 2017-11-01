@@ -5,6 +5,8 @@ import math
 # к методу 1
 #
 
+# ДОБАВИЛИ КОММЕНТАРИЙ ДЛЯ GIT
+
 def MeanValueOfInfluenceQuantity(influenceQuantity1,influenceQuantity2):  # MeanValueOfInfluenceQuantity - мат.ожидание влияющих величин,
     # InfluenceQuantity - влияющая величина, 1 - верхняя граница, 2 - нижняя граница
     return 0.5 * (influenceQuantity1 + influenceQuantity2)
